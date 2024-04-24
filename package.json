@@ -7,10 +7,7 @@
   "scripts": {
     "start": "nodemon ./index.js -exec babel-node"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wdiazcarballo/wdc-containerized-crm.git"
-  },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
